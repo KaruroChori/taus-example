@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Example repository for TAUS",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@taus-services/taus": "*"
+  },
+  "scripts": {
+    "start": "node ./server.js"
+  }
+}
